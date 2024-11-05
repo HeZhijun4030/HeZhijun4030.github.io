@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HeZhijun&#39;s Blog</title>
+    <link>https://HeZhijun4030.github.io/zh/</link>
+    <description>Recent content on HeZhijun&#39;s Blog</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 06 Nov 2021 14:57:28 +0800</lastBuildDate>
+    <atom:link href="https://HeZhijun4030.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🙋🏻‍♂️关于</title>
+      <link>https://HeZhijun4030.github.io/zh/about/</link>
+      <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
+      <guid>https://HeZhijun4030.github.io/zh/about/</guid>
+      <description> HeZhijun4030 Py/Ja/C+ Personal developer🤔 Something about me A middle school student with a dream, dedicated to python developm And I&amp;rsquo;m happy to accept the lack of learning new knowledge! Suffering from mental illness
+Organization: CodeManStudio 📫:zhijun4030@outlook.com QQ:419783120 Partners: CIPStudio
+My usual language My usual IDEA </description>
+    </item>
+  </channel>
+</rss>
