@@ -28,28 +28,16 @@
                 href="https://HeZhijun4030.github.io/zh/"
                 />
   </url><url>
-    <loc>https://HeZhijun4030.github.io/zh/posts/cpp/</loc>
+    <loc>https://HeZhijun4030.github.io/zh/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://HeZhijun4030.github.io/en/posts/cpp/"
+                href="https://HeZhijun4030.github.io/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://HeZhijun4030.github.io/zh/posts/cpp/"
-                />
-  </url><url>
-    <loc>https://HeZhijun4030.github.io/zh/posts/game/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://HeZhijun4030.github.io/en/posts/game/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://HeZhijun4030.github.io/zh/posts/game/"
+                href="https://HeZhijun4030.github.io/zh/archives/"
                 />
   </url><url>
     <loc>https://HeZhijun4030.github.io/zh/posts/java/</loc>
@@ -64,16 +52,16 @@
                 href="https://HeZhijun4030.github.io/zh/posts/java/"
                 />
   </url><url>
-    <loc>https://HeZhijun4030.github.io/zh/posts/linux/</loc>
+    <loc>https://HeZhijun4030.github.io/zh/posts/game/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://HeZhijun4030.github.io/en/posts/linux/"
+                href="https://HeZhijun4030.github.io/en/posts/game/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://HeZhijun4030.github.io/zh/posts/linux/"
+                href="https://HeZhijun4030.github.io/zh/posts/game/"
                 />
   </url><url>
     <loc>https://HeZhijun4030.github.io/zh/posts/py/</loc>
@@ -88,16 +76,16 @@
                 href="https://HeZhijun4030.github.io/zh/posts/py/"
                 />
   </url><url>
-    <loc>https://HeZhijun4030.github.io/zh/archives/</loc>
+    <loc>https://HeZhijun4030.github.io/zh/posts/linux/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://HeZhijun4030.github.io/en/archives/"
+                href="https://HeZhijun4030.github.io/en/posts/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://HeZhijun4030.github.io/zh/archives/"
+                href="https://HeZhijun4030.github.io/zh/posts/linux/"
                 />
   </url><url>
     <loc>https://HeZhijun4030.github.io/zh/posts/</loc>
@@ -122,6 +110,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://HeZhijun4030.github.io/zh/search/"
+                />
+  </url><url>
+    <loc>https://HeZhijun4030.github.io/zh/posts/cpp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://HeZhijun4030.github.io/en/posts/cpp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://HeZhijun4030.github.io/zh/posts/cpp/"
                 />
   </url><url>
     <loc>https://HeZhijun4030.github.io/zh/categories/</loc>
